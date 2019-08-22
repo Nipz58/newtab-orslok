@@ -7,7 +7,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 10px;
-	background-color: #ff4545;
+	background-color: #d12d28;
 }
 
 .twitter {
@@ -32,16 +32,49 @@ body {
 	margin-top: -790px;
 	margin-left: 275px;
 	background-color: #FF5700;
-	position: absolute;
 }
 
 .gmail {
 	height: 250px;
 	width: 250px;
-	margin-top: -520px;
+	margin-top: 20px;
 	margin-left: 275px;
 	background-color: #D44638;
-	position: absolute;
+}
+
+.whatsapp {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 275px;
+	background-color: #28e050;
+}
+
+.amazon {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 540px;
+	background-color: #ebebeb;
+}
+
+.netflix {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 540px;
+	background-color: #E50914;
+}
+
+.changelog {
+	text-align: left;
+	position: fixed;
+	bottom: 0;
+	left: 10px;
+	font-size: 18px;
+	color: #949494;
+	font-family: Courier New;
+	text-decoration: none;
 }
 
 .nipz58 {
@@ -53,4 +86,12 @@ body {
 	color: #949494;
 	font-family: Courier New;
 	text-decoration: none;
+}
+
+.changelogs {
+	color: white;
+	font-size: 18px;
+	font-family: Courier New;
+	margin-left: 10px;
+	list-style: square;
 }
